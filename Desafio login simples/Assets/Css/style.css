@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(70, 142, 236, 0.712);
+    font: normal 15px Arial
+}
+header{
+    color:white;
+    text-align: center;
+}
+section{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.973);
+    border-radius: 7px;
+    padding: 12px;
+    width: 280px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0 , 0, 0, 0.363);
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.button{
+    color: rgba(19, 17, 17, 0.747);
+    font: bold 18px arial;
+    background-color: rgba(70, 142, 236, 0.712);
+    width:100px;
+    border-radius: 9px;
+    padding: 2px;
+    margin: auto;
+}
+p{
+    color: rgba(0, 0, 0, 0.747);
+    font: bold 18px arial;
+}
+#login{
+    color:rgb(57, 55, 189);
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+    
+
